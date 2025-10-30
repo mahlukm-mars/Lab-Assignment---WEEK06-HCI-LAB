@@ -4,8 +4,8 @@
 
 This is a single-page responsive portfolio website created as part of a lab assignment. The website showcases personal information, projects, skills, and contact details. It is built using **HTML**, and **CSS**.
 
-- URL Link to website portfolio: [Click Here](https://juwono136.github.io/bookstore-html-css/)
-- URL Link to website design: [Click Here](https://www.figma.com/design/9NFz7bF42TjCfcih4mCXMW/travel-website?node-id=0-1&t=gKd7Ihxhht2aiEM0-1)
+- URL Link to website portfolio: (https://mahlukm-mars.github.io/Lab-Assignment---WEEK06-HCI-LAB/)
+- URL Link to website design: (https://www.figma.com/design/LIuKMEYw7IV7xCYHPMVi4k/Untitled?node-id=0-1&t=RxS8g3I8abqo9Db6-1)
 
 ## 🎯 Purpose
 
@@ -21,7 +21,6 @@ This portfolio is designed for:
 
 - [✅] Potential employers or recruiters
 
-  > _Note: If you don't have a portfolio yet, please add a fake/sample portfolio first._
 
 ## 🧱 Technologies Used
 
@@ -35,8 +34,8 @@ The website includes the following sections:
 - **Header** – Name and tagline
 - **About Me** – Short bio and photo
 - **Projects** – List of projects with descriptions and links
-- **Skills** – Technical and soft skills
-- **Contact** – Email, social media, or contact form
+- **Experience** – Experience in network engineering
+- **Contact** – social media, or contact form
 - **Footer** – Copyright and links
 
 ## 📱 Responsiveness
@@ -66,16 +65,9 @@ portfolio-website/
 │
 ├── index.html
 ├── style.css
-├── images/
+├── Assets/
 └── README.md
 ```
 
-## 📄 Notes
-
-- I used ChatGPT to help me structure the HTML layout and fix a CSS bug.
-- I designed the color scheme and layout myself using Figma or Canva.
-- I wrote the project descriptions and contact section manually.
-
 ## 📸 Screenshots
 
-_Add screenshots of your website on different devices here and website design created in Figma or Canva._
